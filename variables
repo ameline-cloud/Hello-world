@@ -1,0 +1,24 @@
+class project {
+
+int data=50;//instance variable 
+static int m=100;//static variable  
+void method(){  
+int n=90;//local variable
+char p=20;//char variable
+
+    }
+}
+//a variable is a string that carry data value
+//variable creation is a 2 step process
+//step 1. declare 
+//step 2. initialize
+//you can declare a variable in one line 
+//and then assign its value on other line
+// int x; declare
+// x = 5; initialize
+// x = 9; yes thats right the value of x
+//can change at some point thats why its a variable 
+//or you can declare and initialize on the same line
+//Variables declared globally have a global scope 
+//Variables declared within a function are scoped to that 
+//function and shadow global variables of the same name
