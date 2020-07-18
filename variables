@@ -8,6 +8,9 @@ char p=20;//char variable
 
     }
 }
+
+
+
 //a variable is a string that carry data value
 //variable creation is a 2 step process
 //step 1. declare 
