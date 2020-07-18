@@ -6,6 +6,10 @@ void method(){
 int n=90;//local variable
 char p=20;//char variable
 
+    	System.out.println(data);
+        System.out.println(m);
+        System.out.println(p);
+        System.out.println(n);
     }
 }
 
