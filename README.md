@@ -1,2 +1,3 @@
-# Hello-world
-FistJavaCode
+# maven-project
+
+Simple Maven Project
